@@ -35,3 +35,6 @@ quit
 - rozbalí se MP3 soubory a vytvorí yaml soubor (ten bereme jako zdrojový pro zjistění co upravovat)
 - přidáte úpravy co se mají dělat se soubory (viz 3 příklady v sample.cmd souboru)
 - znovu spustíte `sample.cmd` který již obsahuje úpravy
+
+## Nastavení Audacity
+![audacity.png](images/audacity.png)
