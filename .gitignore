@@ -1,1 +1,5 @@
 .idea/
+*.bnl
+*.mp3
+*.yaml
+*.dat
